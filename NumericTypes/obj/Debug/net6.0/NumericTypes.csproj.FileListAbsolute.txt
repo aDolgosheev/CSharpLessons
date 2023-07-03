@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\NumericTypes\bin\Debug\net6.0\NumericTypes.exe
+C:\Users\Mi\Desktop\c#\NumericTypes\bin\Debug\net6.0\NumericTypes.deps.json
+C:\Users\Mi\Desktop\c#\NumericTypes\bin\Debug\net6.0\NumericTypes.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\NumericTypes\bin\Debug\net6.0\NumericTypes.dll
+C:\Users\Mi\Desktop\c#\NumericTypes\bin\Debug\net6.0\NumericTypes.pdb
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\NumericTypes.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\NumericTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\NumericTypes.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\NumericTypes.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\NumericTypes.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\NumericTypes.dll
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\refint\NumericTypes.dll
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\NumericTypes.pdb
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\NumericTypes.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\NumericTypes\obj\Debug\net6.0\ref\NumericTypes.dll

@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\TextTypes\bin\Debug\net6.0\TextTypes.exe
+C:\Users\Mi\Desktop\c#\TextTypes\bin\Debug\net6.0\TextTypes.deps.json
+C:\Users\Mi\Desktop\c#\TextTypes\bin\Debug\net6.0\TextTypes.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\TextTypes\bin\Debug\net6.0\TextTypes.dll
+C:\Users\Mi\Desktop\c#\TextTypes\bin\Debug\net6.0\TextTypes.pdb
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\TextTypes.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\TextTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\TextTypes.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\TextTypes.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\TextTypes.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\TextTypes.dll
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\refint\TextTypes.dll
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\TextTypes.pdb
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\TextTypes.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\TextTypes\obj\Debug\net6.0\ref\TextTypes.dll

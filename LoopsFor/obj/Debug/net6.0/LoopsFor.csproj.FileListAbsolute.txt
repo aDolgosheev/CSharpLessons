@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\LoopsFor\bin\Debug\net6.0\LoopsFor.exe
+C:\Users\Mi\Desktop\c#\LoopsFor\bin\Debug\net6.0\LoopsFor.deps.json
+C:\Users\Mi\Desktop\c#\LoopsFor\bin\Debug\net6.0\LoopsFor.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\LoopsFor\bin\Debug\net6.0\LoopsFor.dll
+C:\Users\Mi\Desktop\c#\LoopsFor\bin\Debug\net6.0\LoopsFor.pdb
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\LoopsFor.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\LoopsFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\LoopsFor.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\LoopsFor.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\LoopsFor.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\LoopsFor.dll
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\refint\LoopsFor.dll
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\LoopsFor.pdb
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\LoopsFor.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\LoopsFor\obj\Debug\net6.0\ref\LoopsFor.dll

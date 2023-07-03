@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\bin\Debug\net6.0\TestApp01.exe
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\bin\Debug\net6.0\TestApp01.deps.json
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\bin\Debug\net6.0\TestApp01.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\bin\Debug\net6.0\TestApp01.dll
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\bin\Debug\net6.0\TestApp01.pdb
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\TestApp01.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\TestApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\TestApp01.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\TestApp01.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\TestApp01.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\TestApp01.dll
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\refint\TestApp01.dll
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\TestApp01.pdb
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\TestApp01.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\TestApp01\TestApp01\obj\Debug\net6.0\ref\TestApp01.dll

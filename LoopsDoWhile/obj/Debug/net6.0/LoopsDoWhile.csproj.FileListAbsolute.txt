@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\LoopsDoWhile.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\LoopsDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\LoopsDoWhile.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\LoopsDoWhile.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\LoopsDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\bin\Debug\net6.0\LoopsDoWhile.exe
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\bin\Debug\net6.0\LoopsDoWhile.deps.json
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\bin\Debug\net6.0\LoopsDoWhile.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\bin\Debug\net6.0\LoopsDoWhile.dll
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\bin\Debug\net6.0\LoopsDoWhile.pdb
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\LoopsDoWhile.dll
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\refint\LoopsDoWhile.dll
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\LoopsDoWhile.pdb
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\LoopsDoWhile.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\LoopsDoWhile\obj\Debug\net6.0\ref\LoopsDoWhile.dll

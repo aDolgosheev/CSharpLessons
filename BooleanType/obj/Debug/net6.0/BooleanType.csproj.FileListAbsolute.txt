@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\BooleanType\bin\Debug\net6.0\BooleanType.exe
+C:\Users\Mi\Desktop\c#\BooleanType\bin\Debug\net6.0\BooleanType.deps.json
+C:\Users\Mi\Desktop\c#\BooleanType\bin\Debug\net6.0\BooleanType.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\BooleanType\bin\Debug\net6.0\BooleanType.dll
+C:\Users\Mi\Desktop\c#\BooleanType\bin\Debug\net6.0\BooleanType.pdb
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\BooleanType.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\BooleanType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\BooleanType.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\BooleanType.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\BooleanType.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\BooleanType.dll
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\refint\BooleanType.dll
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\BooleanType.pdb
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\BooleanType.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\BooleanType\obj\Debug\net6.0\ref\BooleanType.dll

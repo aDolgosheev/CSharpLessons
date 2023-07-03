@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\LoopsWhile\bin\Debug\net6.0\LoopsWhile.exe
+C:\Users\Mi\Desktop\c#\LoopsWhile\bin\Debug\net6.0\LoopsWhile.deps.json
+C:\Users\Mi\Desktop\c#\LoopsWhile\bin\Debug\net6.0\LoopsWhile.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\LoopsWhile\bin\Debug\net6.0\LoopsWhile.dll
+C:\Users\Mi\Desktop\c#\LoopsWhile\bin\Debug\net6.0\LoopsWhile.pdb
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\LoopsWhile.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\LoopsWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\LoopsWhile.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\LoopsWhile.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\LoopsWhile.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\LoopsWhile.dll
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\refint\LoopsWhile.dll
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\LoopsWhile.pdb
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\LoopsWhile.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\LoopsWhile\obj\Debug\net6.0\ref\LoopsWhile.dll

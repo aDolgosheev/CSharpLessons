@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\LoopsForEach\bin\Debug\net6.0\LoopsForEach.exe
+C:\Users\Mi\Desktop\c#\LoopsForEach\bin\Debug\net6.0\LoopsForEach.deps.json
+C:\Users\Mi\Desktop\c#\LoopsForEach\bin\Debug\net6.0\LoopsForEach.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\LoopsForEach\bin\Debug\net6.0\LoopsForEach.dll
+C:\Users\Mi\Desktop\c#\LoopsForEach\bin\Debug\net6.0\LoopsForEach.pdb
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\LoopsForEach.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\LoopsForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\LoopsForEach.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\LoopsForEach.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\LoopsForEach.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\LoopsForEach.dll
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\refint\LoopsForEach.dll
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\LoopsForEach.pdb
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\LoopsForEach.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\LoopsForEach\obj\Debug\net6.0\ref\LoopsForEach.dll

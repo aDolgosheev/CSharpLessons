@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\Variables\bin\Debug\net6.0\Variables.exe
+C:\Users\Mi\Desktop\c#\Variables\bin\Debug\net6.0\Variables.deps.json
+C:\Users\Mi\Desktop\c#\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\Variables\bin\Debug\net6.0\Variables.dll
+C:\Users\Mi\Desktop\c#\Variables\bin\Debug\net6.0\Variables.pdb
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\Variables.dll
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\refint\Variables.dll
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\Variables.pdb
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\Variables\obj\Debug\net6.0\ref\Variables.dll

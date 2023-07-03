@@ -1,0 +1,15 @@
+C:\Users\Mi\Desktop\c#\ClassicInheritance\bin\Debug\net6.0\ClassicInheritance.exe
+C:\Users\Mi\Desktop\c#\ClassicInheritance\bin\Debug\net6.0\ClassicInheritance.deps.json
+C:\Users\Mi\Desktop\c#\ClassicInheritance\bin\Debug\net6.0\ClassicInheritance.runtimeconfig.json
+C:\Users\Mi\Desktop\c#\ClassicInheritance\bin\Debug\net6.0\ClassicInheritance.dll
+C:\Users\Mi\Desktop\c#\ClassicInheritance\bin\Debug\net6.0\ClassicInheritance.pdb
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\ClassicInheritance.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\ClassicInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\ClassicInheritance.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\ClassicInheritance.AssemblyInfo.cs
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\ClassicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\ClassicInheritance.dll
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\refint\ClassicInheritance.dll
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\ClassicInheritance.pdb
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\ClassicInheritance.genruntimeconfig.cache
+C:\Users\Mi\Desktop\c#\ClassicInheritance\obj\Debug\net6.0\ref\ClassicInheritance.dll
